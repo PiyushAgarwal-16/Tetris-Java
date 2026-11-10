@@ -1,0 +1,3 @@
+cmd + ,
+
+hover delay
