@@ -67,7 +67,7 @@ public class Mino_L1 extends Mino{
         tempB[2].x = b[0].x;
         tempB[2].y = b[0].y - Block.SIZE;
         tempB[3].x = b[0].x - Block.SIZE;
-        tempB[3].y = b[0].y + Block.SIZE;
+        tempB[3].y = b[0].y - Block.SIZE;
     
         updateXY(3);
         
